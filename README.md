@@ -11,6 +11,7 @@ A C++ Implementation for space intersection
 * **stereo pair**
   * left
    <img src="https://github.com/FanKaii/space-intersection/blob/master/data/l.png" width="512" height="780" alt="left image load error"/>
+   
   * right
    <img src="https://github.com/FanKaii/space-intersection/blob/master/data/r.png" width="512" height="780" alt="right image load error"/>
   
