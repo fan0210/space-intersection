@@ -2,7 +2,7 @@
 A C++ Implementation for space intersection
 
 ## Building project
-### 1.Prerequisites
+### Prerequisites
 * C++11
 * OpenCV3
 
@@ -10,9 +10,9 @@ A C++ Implementation for space intersection
 
 * **stereo pair**
   * left
-   ![left image load error](https://github.com/FanKaii/space-intersection/blob/master/data/l.png)
+   <img src="https://github.com/FanKaii/space-intersection/blob/master/data/l.png" width="512" height="780" alt="left image load error"/>
   * right
-   ![right image load error](https://github.com/FanKaii/space-intersection/blob/master/data/r.png)
+   <img src="https://github.com/FanKaii/space-intersection/blob/master/data/r.png" width="512" height="780" alt="right image load error"/>
   
 * **pointcloud**
   * ![point cloud image load error](https://github.com/FanKaii/space-intersection/blob/master/data/pointcloud.png)
