@@ -16,5 +16,5 @@ A C++ Implementation for space intersection
    <img src="https://github.com/FanKaii/space-intersection/blob/master/data/r.png" width="512" height="780" alt="right image load error"/>
   
 * **pointcloud**
-  * ![point cloud image load error](https://github.com/FanKaii/space-intersection/blob/master/data/pointcloud.png)
+  ![point cloud image load error](https://github.com/FanKaii/space-intersection/blob/master/data/pointcloud.png)
   
